@@ -1,0 +1,30 @@
+/* regole generali */
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+/* regole header */
+
+header{
+    /* debug */
+    min-height: 500px;
+    background-color: blue;
+    font-size: 50px;
+}
+
+ nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10%;
+    /* debug */
+    background-color: chocolate;
+}
