@@ -67,3 +67,12 @@ nav{
     flex-direction: row-reverse;
     justify-content: flex-end;
 }
+
+#banner-bot{
+    margin: 30px 15%;
+    /* debug */
+    height: 500px;
+    width: 1500px;
+    height: 700px;
+    background-color: darkorchid;
+} 
