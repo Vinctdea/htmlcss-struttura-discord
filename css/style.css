@@ -37,3 +37,33 @@ nav{
     background-color: crimson;
 
 }
+
+/* regole main */
+
+.sfondo{
+    display: flex;
+    padding: 30px 15% ;
+    justify-content: flex-start;
+}
+.img-home{
+    /* debug */
+    min-width: 1000px;
+    min-height: 400px;
+    background-color: rgb(9, 17, 1);
+}
+
+.testo{
+    /* debug */
+    min-width: 300px;
+    min-height: 400px;
+    background-color: chartreuse;
+}
+
+.grey{
+    background-color: grey;
+}
+
+.reverse{
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
