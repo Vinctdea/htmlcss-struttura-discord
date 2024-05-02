@@ -28,3 +28,12 @@ nav{
     /* debug */
     background-color: chocolate;
 }
+
+.banner{
+    margin:50px 30%;
+    /* debug */
+    min-width: 300px;
+    min-height: 200px;
+    background-color: crimson;
+
+}
