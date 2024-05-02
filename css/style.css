@@ -69,10 +69,21 @@ nav{
 }
 
 #banner-bot{
-    margin: 30px 15%;
-    /* debug */
-    height: 500px;
-    width: 1500px;
-    height: 700px;
+    height: 400px;
+    width: 900px;
     background-color: darkorchid;
 } 
+
+.sfondo-section{
+    height: 500px;
+    width: 100%;
+    padding: 30px 15%;
+}
+
+footer{
+    background-color: darkslategray;
+    /* debug */
+    min-height: 500px;
+}
+
+/* regole footer */
