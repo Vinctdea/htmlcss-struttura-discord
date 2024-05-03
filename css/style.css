@@ -69,6 +69,7 @@ nav{
 }
 
 #banner-bot{
+   margin-left: 25%;
     height: 400px;
     width: 900px;
     background-color: darkorchid;
@@ -87,3 +88,37 @@ footer{
 }
 
 /* regole footer */
+
+footer{
+    background-color: rgb(27, 26, 26);
+    /* debug */
+    min-height: 250px;
+}
+
+.flex-footer{
+    display: flex;
+    margin-left:15%;
+    gap: 30px;
+}
+
+#col-main{
+    /* debug */
+    min-width: 600px;
+    background-color: darkslategrey;
+
+}
+.col-foot{ 
+    margin-top: 30px;
+    align-items: center; 
+    /* debug */
+    background-color: rgb(112, 60, 22);
+    min-height: 600px;
+    min-width: 300px;
+}
+
+#pie-pagina{
+    margin: 30px 15%;
+    /* debug */
+    min-height: 100px;
+    background-color: aqua;
+}
